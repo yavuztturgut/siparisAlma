@@ -64,5 +64,6 @@ void menu() {
 int main() {
     menu();
     yeniMasa();
+    yeniMasa();
     return 0;
 }
